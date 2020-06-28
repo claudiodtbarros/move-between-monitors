@@ -1,11 +1,6 @@
-# move-to-next-monitor
+# move-between-monitors
 
-Script to move windows from one monitor to the next in Xubuntu
-
-Even though I don't use Xubuntu anymore, people are still interested
-in this script. Sweet! Glad it can help others.
-
-I mapped `ctrl+alt+n` to exectute this script.
+Script to move windows from one monitor to the next in XFCE
 
 ## Usage
 
@@ -18,10 +13,7 @@ mv move-to-next-monitor /somewhere/in/your/$PATH
 ## Dependencies
 
 ```
-# Xubuntu 18.04
 sudo apt install xdotool wmctrl
-
-# Xubuntu 16.04
 sudo apt-get install xdotool
 ```
 
