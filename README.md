@@ -5,9 +5,11 @@ Script to move windows between monitors in XFCE
 ## Usage
 
 ```
-wget https://raw.githubusercontent.com/jc00ke/move-to-next-monitor/master/move-to-next-monitor
-chmod +x move-to-next-monitor
+git clone https://github.com/claudiodtbarros/move-between-monitors.git
+cd move-between-monitors
+chmod +x move-to-next-monitor move-to-previous-monitor
 mv move-to-next-monitor /somewhere/in/your/$PATH
+mv move-to-previous-monitor /somewhere/in/your/$PATH
 ```
 
 ## Dependencies
