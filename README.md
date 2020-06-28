@@ -1,6 +1,6 @@
 # move-between-monitors
 
-Script to move windows between monitors in XFCE
+Script to move window between monitors in XFCE.
 
 ## Usage
 
